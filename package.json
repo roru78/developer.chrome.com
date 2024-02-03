@@ -37,7 +37,7 @@
   "license": "Apache 2.0",
   "dependencies": {
     "@11ty/eleventy": "^0.11.1",
-    "@11ty/eleventy-cache-assets": "^2.0.3",
+    "@11ty/eleventy-cache-assets": "^2.3.0",
     "@11ty/eleventy-plugin-rss": "^1.0.9",
     "@lhci/cli": "^0.7.2",
     "@rollup/plugin-node-resolve": "^8.4.0",
@@ -68,7 +68,7 @@
     "rollup": "^2.22.2",
     "striptags": "^3.1.1",
     "unistore": "^3.5.2",
-    "webdev-infra": "^1.0.23"
+    "webdev-infra": "^1.0.57"
   },
   "devDependencies": {
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.4",
